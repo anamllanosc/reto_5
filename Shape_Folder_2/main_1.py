@@ -1,6 +1,6 @@
 from classTriangle_1 import Isosceles
 from classRectangle_1 import Rectangle
-from Shape_Package_2.classShape_1 import Line,Point
+from classShape_1 import Line,Point
 
 def main():
     point_1 = Point(2,1)
